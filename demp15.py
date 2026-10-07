@@ -1,4 +1,4 @@
-Emp = ['101,john,sales,1000','102,ram,prod,2000','103,raju,hr,3000','104,bibu,sales,4000']
+Emp = ['101,sandy,sales,1000','102,sarthik,prod,2000','103,deepak,hr,3000','104,aadi,sales,4000']
 total = 0
 for var in Emp:
     if 'sales' in var:
